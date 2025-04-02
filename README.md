@@ -11,14 +11,15 @@ CSS – Cascading Style Sheets
 
 JS – JavaScript
 
-![Screenshot (106)](https://github.com/user-attachments/assets/56570e21-31f0-49e5-b890-bed714d31943)
-![Screenshot (105)](https://github.com/user-attachments/assets/2e9ddb95-7b1d-4466-b18a-3fc77c17a314)
-![Screenshot (104)](https://github.com/user-attachments/assets/72df813b-d4b6-40a7-86be-c3d140cdca4b)
-![Screenshot (103)](https://github.com/user-attachments/assets/023889f6-b847-432a-a65e-6dc982ab9049)
-![Screenshot (102)](https://github.com/user-attachments/assets/06e04445-215d-424e-94fe-406bb05ac7aa)
-![Screenshot (101)](https://github.com/user-attachments/assets/fde180df-4a5b-491e-8677-932ee06a92ae)
-![Screenshot (100)](https://github.com/user-attachments/assets/66927587-bbcf-4eb8-ac4d-cc711cb47710)
-![Screenshot (99)](https://github.com/user-attachments/assets/9fed733e-3807-4c4d-933b-7aade288c449)
-![Screenshot (98)](https://github.com/user-attachments/assets/b28393c2-3d6c-4023-88e9-821a64557411)
-![Screenshot (97)](https://github.com/user-attachments/assets/ec20419a-61fd-4f6b-bee3-a2a4863a5fac)
-![Screenshot (96)](https://github.com/user-attachments/assets/66c8560c-aac9-4525-ac73-a43bd0c07d20)
+![Screenshot (106)](https://github.com/user-attachments/assets/bd76b7de-c849-460b-b90a-040e5a605eeb)
+![Screenshot (105)](https://github.com/user-attachments/assets/b58ba8df-2d76-4f86-8315-0358cd5c308d)
+![Screenshot (104)](https://github.com/user-attachments/assets/f7542b79-3fe1-4f65-86e6-47cc36fae2f4)
+![Screenshot (103)](https://github.com/user-attachments/assets/7c65efbe-be19-4b9e-a659-c0621a8441a8)
+![Screenshot (102)](https://github.com/user-attachments/assets/d61d2318-f446-4353-aaf3-cb3fdadf8b52)
+![Screenshot (101)](https://github.com/user-attachments/assets/d97b1d09-3581-46ae-b956-3834132424a6)
+![Screenshot (100)](https://github.com/user-attachments/assets/56797c8d-c292-4d60-a9bf-98ec983559d1)
+![Screenshot (99)](https://github.com/user-attachments/assets/925ac85d-ef98-477e-85ff-67d83de87214)
+![Screenshot (98)](https://github.com/user-attachments/assets/a694eaae-beec-411d-9c70-b0fd4b6ca3e6)
+![Screenshot (97)](https://github.com/user-attachments/assets/04141ac8-60e5-42fa-8374-227ccce41366)
+![Screenshot (96)](https://github.com/user-attachments/assets/b59dc91f-cacc-4a0f-9491-0d0616b98b2a)
+
